@@ -1,0 +1,5 @@
+#Comandos git
+git clone "Endereço do repositório em as aspas"
+
+Git bash é um terminal que facilita o uso do git
+
